@@ -1,0 +1,14 @@
+Fibonacci.java
+File Name:Fibonacci.java
+Path:Fibonacci.java
+Abs Path:C:\Users\hema sri\Desktop\oops lab\Fibonacci.java
+Parent:Null
+This file is:Exists
+Is file:true
+Is Directory:false
+Is Readable:true
+IS Writable:true
+Is Absolute:false
+File Last Modified:1790177474833
+File Size:406bytes
+Is Hidden:false
