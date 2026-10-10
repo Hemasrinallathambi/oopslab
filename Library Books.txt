@@ -1,0 +1,11 @@
+Library Books:
+101 Artificial Intelligence Available
+102 Data Structure Available
+103 Operating System Available
+Book Issued
+Book Returned
+
+Updated Books:
+101 Artificial Intelligence Available
+102 Data Structure Available
+103 Operating System Available
